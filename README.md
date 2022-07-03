@@ -40,7 +40,7 @@
   ## Questions
   Questions? Comments? Concerns? Feel free to reach out!  
   Email: bmkersey@gmail.com  
-  GitHub: [bmkersey](https://github.com/bmkersey) 
-  Vide WalkThrough: [Part_1](https://drive.google.com/file/d/1zTX5CpZc8483Yx57AptyQeVGlSH_3utA/view) || [Part_2](https://drive.google.com/file/d/1d8VkpVhi19NzVdXwHW2ZUY7JQEOHD18C/view) 
+  GitHub: [bmkersey](https://github.com/bmkersey)                                                                                               
+   Video WalkThrough: [Part_1](https://drive.google.com/file/d/1zTX5CpZc8483Yx57AptyQeVGlSH_3utA/view) || [Part_2](https://drive.google.com/file/d/1d8VkpVhi19NzVdXwHW2ZUY7JQEOHD18C/view) 
   
   
